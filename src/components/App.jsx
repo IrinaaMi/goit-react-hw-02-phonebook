@@ -1,4 +1,3 @@
-import { render } from '@testing-library/react';
 import { nanoid } from 'nanoid'
 import React from 'react';
 import { ContactForm } from './ContactForm/ContactForm'
